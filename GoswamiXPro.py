@@ -4,7 +4,7 @@ from bs4 import BeautifulSoup
 from tabulate import tabulate
 from telebot.types import InlineKeyboardMarkup, InlineKeyboardButton
 
-# 🔹 Telegram Bot Token
+# 🔹 Telegram Bot BOT_TOKEN
 BOT_TOKEN = "7690574371:AAHP0U6IkrZlu-fSPQW3d2nmUw5MgtIebAo"
 bot = telebot.TeleBot(BOT_TOKEN)
 
